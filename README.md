@@ -1,7 +1,7 @@
 # hello-world
 Just another repository
 
-Hello athere,
+Hello there,
 
 this is my first change,
 
